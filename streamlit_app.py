@@ -56,5 +56,5 @@ for paper in papers:
     st.write(f"Summary: {paper['short_summary']}")
     st.markdown(f"[Read Full Paper]({paper['url']})")
     
-if st.button('Share with John'):
-    st.write("Link shared with John.")
+if st.button('Share with John or Sally'):
+    st.write("Link shared with John or Sally.")
