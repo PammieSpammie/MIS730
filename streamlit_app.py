@@ -1,4 +1,4 @@
-import arxiv
+import arxiv.org
 
 # Define search query for AI and finance-related papers
 search = arxiv.Search(
