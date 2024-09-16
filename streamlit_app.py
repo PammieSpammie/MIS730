@@ -1,5 +1,3 @@
-pip install arxiv
-
 import arxiv
 
 # Define search query for AI and finance-related papers
